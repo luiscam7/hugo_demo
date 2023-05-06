@@ -1,4 +1,4 @@
 baseURL = 'https://hugo-demo-serverless.s3.us-west-2.amazonaws.com/'
 languageCode = 'en-us'
-title = 'The World Is Yours!!!'
+title = 'Let's Go!!!'
 theme = "ananke"
