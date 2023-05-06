@@ -4,8 +4,7 @@ date: 2023-05-06T01:29:11Z
 draft: false
 ---
 
-{{< figure src="resources/_gen/images/ge3cu3mtkt9fb8hih6vf.jpg" alt="Solipsism" >}}
-
+[Solipsism](https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/ge3cu3mtkt9fb8hih6vf.jpg)
 
 In the age of pixels, where ego reigns,
 A solipsist's haven, a digital domain.
